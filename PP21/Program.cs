@@ -15,7 +15,7 @@ namespace lab21pp
             Console.WriteLine("Введите B:");
             double B = Convert.ToDouble(Console.ReadLine());
             double C;
-            Console.WriteLine("1)- выполнить операцию “+”\n2)- выполнить операцию “-”\n3)- выполнить операцию “*”\n4)- выполнить операцию “/”\nВведите 1),2),3).");
+            Console.WriteLine("1)- выполнить операцию “+”\n2)- выполнить операцию “-”\n3)- выполнzsddxfcghgfdseadfghvnfbdvcsfvcgbhgnhbfvdscvxfbcgnvbить операцию “*”\n4)- выполнить операцию “/”\nВведите 1),2),3).");
             int nn = Convert.ToInt32(Console.ReadLine());
             switch (nn)
             {
