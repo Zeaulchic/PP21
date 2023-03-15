@@ -29,7 +29,7 @@ namespace lab21pp
                     break;
                 case 3:
                     C = A * B;
-                    Console.WriteLine("A*B=" + C);
+                    Console.WriteLine("A*dsfdsfsdfdsfdsfdsfsfsdfdsfB=" + C);
                     break;
                 case 4:
                     C = A / B;
